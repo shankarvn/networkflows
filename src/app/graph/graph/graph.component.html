@@ -1,1 +1,7 @@
-<p>graph works!</p>
+<canvas class="graph" #graph width="1200" height="1200">
+</canvas>
+
+<div *ngIf="progressValue !== 100" class="progress-label">
+  <progress max="100" [attr.value]="progressValue"></progress>
+  <span class="percent-value">{{progressValue}}%</span>
+</div>
