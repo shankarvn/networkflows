@@ -26,6 +26,7 @@
     "@ngx-translate/core": "^11.0.1",
     "@ngx-translate/http-loader": "^4.0.0",
     "@webcomponents/custom-elements": "^1.0.0",
+    "angular-cli-ghpages": "^0.6.0",
     "d3-force": "^2.0.1",
     "lodash": "^4.17.15",
     "rxjs": "~6.4.0",
