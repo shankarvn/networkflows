@@ -1,0 +1,9 @@
+
+.insets {
+  margin: 0.1rem;
+}
+
+.above-grid {
+  @extend .insets;
+  padding: 0.1rem;
+}

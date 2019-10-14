@@ -4,7 +4,7 @@ import { User } from './model';
 @Component({
   selector: 'lib-datagrid',
   templateUrl: './datagrid.component.html',
-  styleUrls: ['./datagrid.component.css']
+  styleUrls: ['./datagrid.component.scss']
 })
 export class DatagridComponent implements OnInit {
 

@@ -24,6 +24,9 @@
       ],
       "@ns/shared-lib/*": [
         "dist/ns/shared-lib/*"
+      ],
+      "#sourceRoot/*": [
+        "./src/*"
       ]
     }
   },

@@ -1,7 +1,7 @@
 import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { GraphData, GraphNode, GraphLink } from 'src/app/dto/dto';
-import { RxifyWorker } from 'src/app/worker-utils/rxify-worker';
+import { GraphData, GraphNode, GraphLink } from '#sourceRoot/app/dto/dto';
+import { RxifyWorker } from '#sourceRoot/app/worker-utils/rxify-worker';
 import { Subscription } from 'rxjs';
 
 @Component({
