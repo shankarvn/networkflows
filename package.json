@@ -28,7 +28,7 @@
     "@webcomponents/custom-elements": "^1.0.0",
     "angular-cli-ghpages": "^0.6.0",
     "d3-force": "^2.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
